@@ -37,7 +37,7 @@
     "dotenv": "^16.4.5",
     "mem0ai": "^2.1.12",
     "partial-json": "0.1.7",
-    "zod": "^3.0.0"
+    "zod": "^4.1.11"
   },
   "devDependencies": {
     "@edge-runtime/vm": "^3.2.0",
@@ -51,7 +51,7 @@
     "typescript": "^5.5.4"
   },
   "peerDependencies": {
-    "zod": "^3.0.0"
+    "zod": "^4.1.11"
   },
   "peerDependenciesMeta": {
     "zod": {
