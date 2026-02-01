@@ -2,3 +2,4 @@ streamlit
 embedchain
 langchain-text-splitters
 pysqlite3-binary
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
