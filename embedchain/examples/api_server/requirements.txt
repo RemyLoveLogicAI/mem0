@@ -10,3 +10,4 @@ PyGithub==1.59.1
 feedparser==6.0.10
 newspaper3k==0.2.8
 listparser==0.19
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
