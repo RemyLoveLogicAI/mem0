@@ -1,2 +1,2 @@
-chainlit==2.9.4
+chainlit==2.10.0
 embedchain==0.1.31
