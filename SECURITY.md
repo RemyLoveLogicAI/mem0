@@ -1,3 +1,3 @@
-# Security
+# Security Policy
 
-Please open a GitHub security advisory for this repository to report security issues.
+Please report security vulnerabilities through GitHub's private vulnerability reporting for this repository. Do not disclose sensitive issues publicly.
