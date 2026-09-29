@@ -32,7 +32,7 @@
     "@ai-sdk/groq": "1.1.11",
     "@ai-sdk/openai": "1.1.15",
     "@ai-sdk/provider": "1.0.9",
-    "@ai-sdk/provider-utils": "2.1.10",
+    "@ai-sdk/provider-utils": "5.0.51",
     "ai": "4.1.46",
     "dotenv": "^16.4.5",
     "mem0ai": "^2.1.12",
